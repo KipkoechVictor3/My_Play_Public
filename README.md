@@ -1,2 +1,2 @@
 # My_Play_Public
-This is a public repository
+Links were collected by the bot on the internet by search engine like Google. For legal issues, please contact appropriate media file owners/hosters
