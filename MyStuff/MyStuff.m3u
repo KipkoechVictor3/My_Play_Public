@@ -30,11 +30,6 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTliNGZhYjg0
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/197.png",AEK Athens FC vs Panserraikos
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8
 #EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://images.vexels.com/media/users/3/141506/isolated/preview/75a49350b9a52033e827e2654ee4a421-wrestling-square-icon.png",AEW x NJPW Forbidden Door
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
@@ -45,6 +40,11 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2I4YTM3Y2Rh
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTc2ODFjOTk4OGRlLTM3MDgtYjA4NC05ODVjLTFjMTc1YjAx/master.m3u8
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/128.png",Argentinos JRS vs Racing Club
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODI0ZTBhMTdkMjViLTM3MWEtZTVkNC0yNTc4LWU3MDM0ZGY4/master.m3u8
 #EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/135.png",Atalanta vs Pisa
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
@@ -55,26 +55,16 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYw
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzdjYTY3ZjQ0NTZiLWU2YmEtYjQ5NC00ZDBhLTY3ODM4MzVh/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/141.png",Cultural Leonesa vs Almeria
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/253.png",Atlanta United FC vs Toronto FC
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzMzOTM5NTE5YWYwLTI4NWItZmM1NC1mMWViLTRiZGRmYjk5/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/94.png",FC Porto vs Casa Pia
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/94.png",FC Porto vs Casa Pia
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTZlNjZlYzdjMTlhLTYyMTgtNjQ0NC1jYzU3LTBmYzdmNmNh/master.m3u8
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/71.png",Bahia vs Santos
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/94.png",FC Porto vs Casa Pia
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTgxZjlkYTM1ZjQzLWFiZWItNWM2NC05NjQ3LWNiMGZiZTRk/master.m3u8
 #EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/283.png",FCSB vs Arges Pitesti
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
@@ -125,11 +115,11 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzdiN2IwMTM2
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MWZlMDAwZTlmM2QyLWUzMGItYjVmNC0zMDhjLTViNGQ3YTRl/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://images.vexels.com/media/users/3/139452/isolated/preview/293ee895c44ed57b491ae71ffa258ac4-racing-cars-race-icon.png",MXGP Netherlands World Championship
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/141.png",Malaga vs Real Sociedad II
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTJhYzM5M2Q3YWRlLTAwZmItZmM3NC1hYjE3LTFkZTY4MDI5/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTBkOTFiYWUzYzI2LTk0MmItYzA3NC1lYTBhLTFkMDE2YzM4/master.m3u8
 #EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://images.seeklogo.com/logo-png/9/2/moto-gp-logo-png_seeklogo-95075.png",MotoGP Round 14 Hungary
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
@@ -145,36 +135,41 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTY5MDFkNTVl
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjgyNTVmNTE1M2M5LWM5OGItMGNjNC00YzdlLTliZWI4YWY3/master.m3u8
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/239.png",Once Caldas vs Deportes Tolima
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2E0NGQxZTM4ODhkLTFkY2EtMGI0NC1mNmNmLWIxNzQwNmM1/master.m3u8
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Oviedo vs Real Madrid
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Oviedo vs Real Madrid
+#EXTVLCOPT:http-origin=https://fstv.space
+#EXTVLCOPT:http-referrer=https://fstv.space
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
 #EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Oviedo vs Real Madrid
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/197.png",PAOK vs Larisa
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Oviedo vs Real Madrid
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8
 #EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://cdn-icons-png.flaticon.com/512/13124/13124910.png",PPV EVENT 01 AEW x NJPW Forbidden Door
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmE5NzNhNzFlMzdhLTNmZjktNjdjNC1kYTY1LTNiNzRjNzUw/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Real Sociedad vs Espanyol
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/94.png",SC Braga vs AVS
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Real Sociedad vs Espanyol
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZThmNWEzNDc4Y2UzLWJhZjgtMjBlNC1hY2UyLTcxZDZhOWYx/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Real Sociedad vs Espanyol
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTgxZjlkYTM1ZjQzLWFiZWItNWM2NC05NjQ3LWNiMGZiZTRk/master.m3u8
 #EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2633/2633933.png",US Open 2025
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
@@ -190,41 +185,21 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/128.png",Union Santa Fe vs Huracan
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/71.png",Vasco DA Gama vs Corinthia
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODI0ZTBhMTdkMjViLTM3MWEtZTVkNC0yNTc4LWU3MDM0ZGY4/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/136.png",Venezia vs Bari
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTRjMWFlZGU1NDMzLWQxNjgtZThhNC1iNDE3LTM0Y2E2ZDEz/master.m3u8
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/479.png",York United vs Pacific FC
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTc2NTM5MjA5ZGM0LTUwMGItZDVhNC1mMjhjLTViZjkxMDlk/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Villarreal vs Girona
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDY4NGMzM2Q5MTkzLTAwN2EtN2I0NC1lOTFmLTM3ZTAyMTEy/master.m3u8
+#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/479.png",York United vs Pacific FC
 #EXTVLCOPT:http-origin=https://fstv.space
 #EXTVLCOPT:http-referrer=https://fstv.space
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Villarreal vs Girona
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NWZlMzI2Yzk2ODBlLWNkMmItMWZkNC00ODEzLTNjZGJjMzcx/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Villarreal vs Girona
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/140.png",Villarreal vs Girona
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTZlNjZlYzdjMTlhLTYyMTgtNjQ0NC1jYzU3LTBmYzdmNmNh/master.m3u8
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/80.png",Waldhof Mannheim vs FC Viktoria Köln
-#EXTVLCOPT:http-origin=https://fstv.space
-#EXTVLCOPT:http-referrer=https://fstv.space
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTFmZGE2ZDY1MDNlLWMyZDktZTczNC1jN2JiLTM3OTNjMTM2/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8
 
 # --- Content from WeAreChecking ---
 
@@ -240,51 +215,41 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTFmZGE2ZDY1
 
 
 
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Laliga✦Real Sociedad vs Espanyol ✦S1
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://embedsforlife.online/
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://n1o91wuk17.example.com/hls/4k/playlist.m3u8?token=6myduvdf33q&v=1756061879269
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Laliga✦Villareal vs Girona ✦S1
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://embedsforlife.online/
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ftthf6hd10.example.com/hls/720p/playlist.m3u8?token=u2x1otv9pch&v=1756061883231
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Imsa✦Michelin GT Challenge ✦S1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Imsa✦Michelin GT Challenge ✦S1
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/imsa/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Indycar✦Snap-on Milwaukee Mile 250 ✦S1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Indycar✦Snap-on Milwaukee Mile 250 ✦S1
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/wnyw-usa/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Indycar✦Snap-on Milwaukee Mile 250 ✦S2
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Indycar✦Snap-on Milwaukee Mile 250 ✦S2
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/sky-sport-4-nz/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Indycar✦Snap-on Milwaukee Mile 250 ✦S3
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Indycar✦Snap-on Milwaukee Mile 250 ✦S3
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/sky-sport-f1-germany/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Seriea✦Atalanta vs Pisa ✦S1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Seriea✦Atalanta vs Pisa ✦S1
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/bein-sports-1-au/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Seriea✦Juventus vs Parma ✦S1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Seriea✦Juventus vs Parma ✦S1
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/bein-sports-3-au/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Laliga✦Real Oviedo vs Real Madrid ✦S1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="WAC STREAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png",Unknown Category✦Real Oviedo vs Real Madrid ✦S1
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://r4ohdycstb.example.com/hls/720p/playlist.m3u8?token=3fsytksfl6i&v=1756061901084
+https://lz8txowx8g.example.com/hls/480p/playlist.m3u8?token=u0esgehg4gq&v=1756066971052
 
 # --- Content from PPVMatches ---
 
@@ -292,7 +257,7 @@ https://r4ohdycstb.example.com/hls/720p/playlist.m3u8?token=3fsytksfl6i&v=175606
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.21
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-origin=https://veplay.top/
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTc2ODFjOTk4OGRlLTM3MDgtYjA4NC05ODVjLTFjMTc1YjAx/master.m3u8?md5=9f1LDs_YJh-ynvXRyf-4Kw&expires=1756078200&net=MjAuMTYxLjQ0LjE4MQ%3D%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTc2ODFjOTk4OGRlLTM3MDgtYjA4NC05ODVjLTFjMTc1YjAx/master.m3u8?md5=9f1LDs_YJh-ynvXRyf-4Kw&expires=1756078200&net=NTIuMTY1LjI1MS4xNjQ%3D
 
 
 # --- Content from RemoteM3U ---
