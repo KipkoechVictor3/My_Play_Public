@@ -95,6 +95,9 @@ https://6u7pu1s4bc.example.com/hls/720p/playlist.m3u8?token=m5dd2mr24cs&v=175602
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://ses.welovestroll.store/tnt-sports-2-uk/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S6
+https://ses.welovestroll.store/tnt-sports-2-uk/tracks-v1a1/mono.m3u8|http-origin="https://wearechecking.online/"&http-referer="https://embedsforlife.online/"&http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
 # --- Content from RemoteM3U ---
 
 #EXTM3U x-tvg-url="https://bit.ly/a1xepg" tvg-shift=0
