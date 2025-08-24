@@ -1,41 +1,5 @@
 #EXTM3U
 
-# --- Content from FSTVL ---
-
-
-
-
-
-
-
-                             ###########################################################################
-
-                             ###########                     FSTV STREAMS                 ##############
-
-                             ###########################################################################
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/39.png",Everton vs Brighton
-#EXTVLCOPT:http-origin=https://fstv.online
-#EXTVLCOPT:http-referrer=https://fstv.online/match/everton-vs-brighton-football-1378984?timezone=Africa%2FAbidjan
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8?auth_key=1756034041-928836b593d05c7fdd2324f694c9c851-00000000000000000000000000000000-b67dd180944433232f8785c0be084ca0
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/179.png",ST Mirren vs Rangers
-#EXTVLCOPT:http-origin=https://fstv.online
-#EXTVLCOPT:http-referrer=https://fstv.online/match/st-mirren-vs-rangers-football-1382683?timezone=Africa%2FAbidjan
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjY1NWIyOTgyOTRjLTlhZWEtOTc3NC04NTE3LWI1OGU2NWI4/master.m3u8?auth_key=1756033857-928836b593d05c7fdd2324f694c9c851-00000000000000000000000000000000-f16bd2f7e863016bbae54686ac40593f
-#EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://media-sport.b-cdn.net/football/leagues/79.png",SpVgg Greuther Fürth vs Holstein Kiel
-#EXTVLCOPT:http-origin=https://fstv.online
-#EXTVLCOPT:http-referrer=https://fstv.online/match/spvgg-greuther-furth-vs-holstein-kiel-football-1388640?timezone=Africa%2FAbidjan
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDNjZGEyNjU2MTM2LTJjOTgtMGFiNC1kOTgyLTRlYjc4Y2U1/master.m3u8?auth_key=1756033783-928836b593d05c7fdd2324f694c9c851-00000000000000000000000000000000-3d5ee4e53ca598c4c6c886885e087b08
-
 # --- Content from WeAreChecking ---
 
 
@@ -50,56 +14,56 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDNjZGEyNjU2
 
 
 
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto2✦Grand Prix of Hungary ✦S1
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Sachsenring - Race 2 ✦S1
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://1m50iufnke.example.com/hls/4k/playlist.m3u8?token=h47pnob7bdf&v=1756034186955
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto2✦Grand Prix of Hungary ✦S2
+https://ses.welovestroll.store/bein-sports-1-th/index.m3u8
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S1
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ses.welovestroll.store/tnt-sports-2-uk/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto2✦Grand Prix of Hungary ✦S3
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://embedsforlife.online/
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ses.welovestroll.store/sky-sport-motogp-italy/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto2✦Grand Prix of Hungary ✦S4
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://embedsforlife.online/
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://4ayuwoxv32.example.com/hls/4k/playlist.m3u8?token=nykif421ckd&v=1756034192807
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S1
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://embedsforlife.online/
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://2zyvmhpqa0.example.com/hls/4k/playlist.m3u8?token=zj9mobwlwed&v=1756034197793
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S2
+https://ewm22jivb6.example.com/hls/480p/playlist.m3u8?token=48iumm4l8ex&v=1756035175878
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S2
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/tnt-sports-2-uk/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S3
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S3
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/sky-sport-motogp-italy/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S4
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S4
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://dk6u7ufqwy.example.com/hls/4k/playlist.m3u8?token=wcuwa7oyd3&v=1756034203134
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Everton vs Brighton & Hove Albion ✦S1
+https://04m0rg2ofx.example.com/hls/4k/playlist.m3u8?token=yjj8ucrwydl&v=1756035182096
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦BSB - Cadwell Park ✦S1
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ses.welovestroll.store/sky-sport-3-nz/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Premier✦Crystal Palace vs Nottingham Forest ✦S1
+https://ses.welovestroll.store/tnt-sports-4-uk/index.m3u8
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Crystal Palace vs Nottingham Forest ✦S1
 #EXTVLCOPT:http-origin=https://embedsforlife.online
 #EXTVLCOPT:http-referrer=https://embedsforlife.online/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/sky-sport-4-nz/index.m3u8
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Crystal Palace vs Nottingham Forest ✦S2
+#EXTVLCOPT:http-origin=https://embedsforlife.online
+#EXTVLCOPT:http-referrer=https://embedsforlife.online/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://ses.welovestroll.store/sky-sports-premier-league-uk/index.m3u8
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Premier✦Everton vs Brighton & Hove Albion ✦S1
+#EXTVLCOPT:http-origin=https://embedsforlife.online
+#EXTVLCOPT:http-referrer=https://embedsforlife.online/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://ses.welovestroll.store/sky-sport-3-nz/index.m3u8
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Premier✦Everton vs Brighton & Hove Albion ✦S2
+#EXTVLCOPT:http-origin=https://embedsforlife.online
+#EXTVLCOPT:http-referrer=https://embedsforlife.online/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://ses.welovestroll.store/sky-sports-main-event-uk/index.m3u8
 
 # --- Content from RemoteM3U ---
 
