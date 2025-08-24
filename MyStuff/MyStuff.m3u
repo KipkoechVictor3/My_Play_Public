@@ -22,7 +22,7 @@
 
 #EXTINF:-1 group-title="FSTV LIVE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2160/2160064.png",Australia vs South Africa
 #EXTVLCOPT:http-origin=https://fstv.online
-#EXTVLCOPT:http-referrer=https://fstv.online/match/australia-south-africa-3rd-odi-cricket-1?timezone=Africa%2FAbidjan
+#EXTVLCOPT:http-referer=https://fstv.online/match/australia-south-africa-3rd-odi-cricket-1?timezone=Africa%2FAbidjan
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8?auth_key=1756028988-8fffc5e9badc6ca382394493a8d2a984-00000000000000000000000000000000-9c719545e28d83e20ebb0df016696125
 
@@ -42,52 +42,58 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3
 
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto3✦Grand Prix of Hungary ✦S1
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://go8plqjtmf.example.com/hls/1080p/playlist.m3u8?token=j3uz3ymwkkf&v=1756028919680
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto3✦Grand Prix of Hungary ✦S2
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://ses.welovestroll.store/tnt-sports-2-uk/index.m3u8
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto3✦Grand Prix of Hungary ✦S3
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://ses.welovestroll.store/sky-sport-motogp-italy/index.m3u8
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto3✦Grand Prix of Hungary ✦S4
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://u7h86uovl9.example.com/hls/720p/playlist.m3u8?token=312efd0xlkr&v=1756028930492
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S1
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://mgdgh6kx14.example.com/hls/720p/playlist.m3u8?token=qack35v61y&v=1756028935541
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S2
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://ses.welovestroll.store/tnt-sports-2-uk/index.m3u8
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S3
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://ses.welovestroll.store/sky-sport-motogp-italy/index.m3u8
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S4
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://wqwtpyp4ik.example.com/hls/1080p/playlist.m3u8?token=mx780lzl6hj&v=1756028945320
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S1
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://5p5cmuacgg.example.com/hls/1080p/playlist.m3u8?token=znx29nyckbg&v=1756028955004
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S2
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/streams/2432
 https://ses.welovestroll.store/tnt-sports-2-uk/index.m3u8
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S3
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://ses.welovestroll.store/sky-sport-motogp-italy/index.m3u8
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S4
 #EXTVLCOPT:http-origin=https://wearechecking.online/
-#EXTVLCOPT:http-referrer=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://wearechecking.online/
 https://6u7pu1s4bc.example.com/hls/720p/playlist.m3u8?token=m5dd2mr24cs&v=1756028963355
+
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S5
+#EXTVLCOPT:http-origin=https://wearechecking.online/
+#EXTVLCOPT:http-referer=https://embedsforlife.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://ses.welovestroll.store/tnt-sports-2-uk/tracks-v1a1/mono.m3u8
 
 # --- Content from RemoteM3U ---
 
