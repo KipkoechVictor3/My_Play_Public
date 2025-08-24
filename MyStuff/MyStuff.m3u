@@ -24,7 +24,7 @@
 #EXTVLCOPT:http-origin=https://fstv.online
 #EXTVLCOPT:http-referrer=https://fstv.online/match/australia-south-africa-3rd-odi-cricket-1?timezone=Africa%2FAbidjan
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8?auth_key=1756027842-a6f2d5028e784324c083f6db571bf3ed-00000000000000000000000000000000-8c14eeac04164fe85ec4c61efe304c72
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8?auth_key=1756028988-8fffc5e9badc6ca382394493a8d2a984-00000000000000000000000000000000-9c719545e28d83e20ebb0df016696125
 
 # --- Content from WeAreChecking ---
 
@@ -40,71 +40,30 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3
 
 
 
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Supergt✦Suzuka GT 300KM ✦S1
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2410
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ses.welovestroll.store/supergt/index.m3u8
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto3✦Grand Prix of Hungary ✦S1
+https://go8plqjtmf.example.com/hls/1080p/playlist.m3u8?token=j3uz3ymwkkf&v=1756028919680
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto3✦Grand Prix of Hungary ✦S2
+https://ses.welovestroll.store/tnt-sports-2-uk/index.m3u8
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto3✦Grand Prix of Hungary ✦S3
+https://ses.welovestroll.store/sky-sport-motogp-italy/index.m3u8
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto3✦Grand Prix of Hungary ✦S4
+https://u7h86uovl9.example.com/hls/720p/playlist.m3u8?token=312efd0xlkr&v=1756028930492
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S1
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2428
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://q80x93ibiq.example.com/hls/4k/playlist.m3u8?token=ot415suk9n&v=1756027778856
+https://mgdgh6kx14.example.com/hls/720p/playlist.m3u8?token=qack35v61y&v=1756028935541
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S2
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2428
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/tnt-sports-2-uk/index.m3u8
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S3
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2428
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://ses.welovestroll.store/sky-sport-motogp-italy/index.m3u8
 #EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S4
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2428
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://bhpphu0rlc.example.com/hls/4k/playlist.m3u8?token=xk1i1s8zds&v=1756027788388
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto2✦Grand Prix of Hungary ✦S1
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2429
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ij335qr0pg.example.com/hls/720p/playlist.m3u8?token=1bauolacie6&v=1756027793305
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto2✦Grand Prix of Hungary ✦S2
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2429
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://wqwtpyp4ik.example.com/hls/1080p/playlist.m3u8?token=mx780lzl6hj&v=1756028945320
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S1
+https://5p5cmuacgg.example.com/hls/1080p/playlist.m3u8?token=znx29nyckbg&v=1756028955004
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S2
 https://ses.welovestroll.store/tnt-sports-2-uk/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto2✦Grand Prix of Hungary ✦S3
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2429
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S3
 https://ses.welovestroll.store/sky-sport-motogp-italy/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Moto2✦Grand Prix of Hungary ✦S4
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2429
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://5blmyque8j.example.com/hls/720p/playlist.m3u8?token=6stfa14prv5&v=1756027801430
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S1
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2432
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://3hpzoqqz9v.example.com/hls/1080p/playlist.m3u8?token=0s54uupf512&v=1756027810779
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S2
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2432
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ses.welovestroll.store/tnt-sports-2-uk/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S3
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2432
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ses.welovestroll.store/sky-sport-motogp-italy/index.m3u8
-#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Unknown Category✦Grand Prix of Hungary ✦S4
-#EXTVLCOPT:http-origin=https://embedsforlife.online
-#EXTVLCOPT:http-referrer=https://wearechecking.online/streams/2432
-#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://oxpj1um1n2.example.com/hls/720p/playlist.m3u8?token=48afgmqet32&v=1756027819184
+#EXTINF:-1 group-title="WAC STREAMS" tvg-logo="https://placehold.co/120x80/cccccc/000000?text=No+Thumb",Motogp✦Grand Prix of Hungary ✦S4
+https://6u7pu1s4bc.example.com/hls/720p/playlist.m3u8?token=m5dd2mr24cs&v=1756028963355
 
 # --- Content from RemoteM3U ---
 
