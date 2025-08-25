@@ -1196,3 +1196,2444 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="RPTV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RPTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=273189c214e85b43ac36298d1c422330:1aace05f58d8edef9697fd52cb09f441
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="TV5.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TV5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53a3776a034dbe5f483d0f3a46f5fddf:29e3d2678107f0ab0b35b6537c734f2a
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+#EXTINF:-1 tvg-id="NET25.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NET25
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7e35a07e2c12822316c0dc4873903f:5436395534576f7638744a43356d336e
+https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
+#EXTINF:-1 tvg-id="IBC 13.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", IBC 13
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=387938463676644f7141503474507435:1947579StJymu
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd_new.mpd
+#EXTINF:-1 tvg-id="PTV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d09e48cae8061ed7612c1c969804922:47383839496f476d796177694b666a37
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+#EXTINF:-1 tvg-id="A2Z.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", A2Z
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:7a98f8e748e2e14057e9f99ac8e3a025
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+#EXTINF:-1 tvg-id="ALL TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ALL TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303137373937323535313836:4d7e33da19b971cef49e35eccdb9de0b
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="CNN Philippines.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CNN Philippines
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:346b9f41e2933748c8861f82932e0110
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+#EXTINF:-1 tvg-id="DZRH TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DZRH TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436157316d374c314e56667576363272:74576436426946764a6b4e5734456e37
+https://cdn4.skygo.mn/live/disk1/DW/HLSv3-FTA/DW.m3u8
+#EXTINF:-1 tvg-id="RJ TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RJ TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eac7cd7979f04288bc335fc1d88fa344:2fb39ab3f55333d5fa3e830ebf99ec16
+https://vthanh.utako.moe/Tokyo_MX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RADYO BANDIDO TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RADYO BANDIDO TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=386f3337674c36666e3861713930726f:35416a68643065697575493337566135
+https://vthanh.utako.moe/bs10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CLTV 36.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CLTV 36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:f3266bec607f25879f48640f30f1c888
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="DZMM TELERADYO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DZMM TELERADYO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323236373936303238393632:bee1066160c0424696d9bf99ca0645e3
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="ONE NEWS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ONE NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77d98ed71db7524c27875a09a975f9e6:1aace05f58d8edef9697fd52cb09f441
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+#EXTINF:-1 tvg-id="ONE PH.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ONE PH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8726ef7eaf5b9dce15fb6aa9f80bd53f:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+#EXTINF:-1 tvg-id="INC TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", INC TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:b2d0dce5c486891997c1c92ddaca2cd2
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001183/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="TVUP.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVUP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:2e53f8d8a5e94bca8f9a1e16ce67df33
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+#EXTINF:-1 tvg-id="ALIW CHANNEL 23.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ALIW CHANNEL 23
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=184f94303d3357b9a7381ccdeee9b611:5bfb374d644703550f0637532bca0491
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001103/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="ORAS NG HIMALA TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ORAS NG HIMALA TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323237303338303332343538:6HeYyIE
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001175/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="GOLDEN NATION NETWORK.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", GOLDEN NATION NETWORK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37fdee8b6eef5c96001e8c6fc47bfc08:25f4625345717647464a78374d754f76
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="PBA RUSH.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PBA RUSH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:723548436f6e34333961586150756649
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+#EXTINF:-1 tvg-id="UAAP VARSITY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", UAAP VARSITY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:723548436f6e34333961586150756649
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+#EXTINF:-1 tvg-id="CINEMO!.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CINEMO!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:96701d297d1241e492d41c397631d857
+https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
+#EXTINF:-1 tvg-id="JEEPNEY TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", JEEPNEY TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27662063ZATMqp:38346b5732353165303954347677476e
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="SOLARFLIX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SOLARFLIX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=361197805d0149c29801946cf2dde67c:31363331363735393833333531383134
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTINF:-1 tvg-id="SARI-SARI.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SARI-SARI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3a58ec867cc25829e1fbe8938442553:8b48b2cb2743b91d5f20cf2622067f3a
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+#EXTINF:-1 tvg-id="BUKO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BUKO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+#EXTINF:-1 tvg-id="TAP ACTION FLIX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TAP ACTION FLIX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de28411cf08a64ea935b9578f6d0edd:0c64ccfb978e7390bd33344075492aec
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+#EXTINF:-1 tvg-id="TVN MOVIES PINOY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVN MOVIES PINOY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8795f3bdb8a4778b7e888ee484cc7a1:d4f05ce56c5231b7cdf53455bea58621
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+#EXTINF:-1 tvg-id="PINOY XTREME.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PINOY XTREME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:397c64e42507d95e5460830918c22a98
+https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+#EXTINF:-1 tvg-id="HALLYPOP.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HALLYPOP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8
+#EXTINF:-1 tvg-id="JUNGO PINOY TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", JUNGO PINOY TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
+#EXTINF:-1 tvg-id="JUNGO TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", JUNGO TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://amg02188-amg02188c2-jungotv-northamerica-5717.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="SCREAMFLIX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SCREAMFLIX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jungotvstream.chanall.tv/jungotv/screamflix/stream.m3u8
+#EXTINF:-1 tvg-id="COMBATGO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", COMBATGO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jungotvstream.chanall.tv/jungotv/combatgo/stream.m3u8
+#EXTINF:-1 tvg-id="PHOENIX INFONEWS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PHOENIX INFONEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b5868bc161634a033a19a20f3f3595d:31363331363736333231333532323639
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
+#EXTINF:-1 tvg-id="CGTN DOCUMENTARY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://cdn4.skygo.mn/live/disk1/CGTN_Doc/HLSv3-FTA/CGTN_Doc.m3u8
+#EXTINF:-1 tvg-id="RUSSIA TODAY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RUSSIA TODAY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DW
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="FRANCE 24.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FRANCE 24
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="CGTN.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CGTN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdbd38748f51fc26932e96c9a2020839:042a21bf236ca729b1e343ed6e0a6337
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="EURONEWS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", EURONEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BLOOMBERG
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8ae7679cf18e7261303313b18ba7a14:183b3eafa4c82e68f74c4244d54906b0
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="WION.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", WION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1170btrpUu:e4293507d592df040f2186f1ce82a712
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
+#EXTINF:-1 tvg-id="CNA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CNA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+#EXTINF:-1 tvg-id="AL JAZEERA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", AL JAZEERA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
+#EXTINF:-1 tvg-id="SKY NEWS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SKY NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-id="TRT WORLD.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TRT WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="REUTERS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", REUTERS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jmp2.uk/sam-DEBD4900001QV.m3u8
+#EXTINF:-1 tvg-id="CNN.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CNN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:768be56ebc93f207be05ac6f07ebf0da
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
+#EXTINF:-1 tvg-id="RAI NEWS 24.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RAI NEWS 24
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f4423fecb09438c8782af0a7bcb2204:183b3eafa4c82e68f74c4244d54906b0
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 tvg-id="CINEMAX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CINEMAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7e35a07e2c12822316c0dc4873903f:5436395534576f7638744a43356d336e
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#EXTINF:-1 tvg-id="CINEMAX 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CINEMAX 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:1b87070d9fad5dee0a35ff014a2063a7
+https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="HBO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=279695ebe0fb1bc5787422b6b59ce8a8:4ddc4cd97e7016485cb6d25bc2ba3cda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#EXTINF:-1 tvg-id="HBO SIGNATURE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:34880f56627c11ee8c990242ac120002
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1 tvg-id="HBO HITS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO HITS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:775a654c0610811ad022329a68884de1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+#EXTINF:-1 tvg-id="HBO FAMILY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO FAMILY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b21654621230ae21714a5cab52daeb9d:1917f4caf2364e6d9b1507326a85ead6
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#EXTINF:-1 tvg-id="HBO PLUS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO PLUS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393131363337323232353030:a4d49bda8cd29ba2888c732b4e7d9d63
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOPLUSHD/default.mpd
+#EXTINF:-1 tvg-id="HBO POP.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO POP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:9547f9aead1237c8a3b1bf0a91ed9995
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOPOPHD/default.mpd
+#EXTINF:-1 tvg-id="HBO XTREME.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO XTREME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:2fbdaa3bea0d0323ae011b318d1db716
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
+#EXTINF:-1 tvg-id="HBO 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fad936249e036830aa5bef41bec05326:31bb1ee9a8d088f62b0103550c301449
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2HD/default.mpd
+#EXTINF:-1 tvg-id="HBO 3.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6039ec9b213aca913821677a28bd78ae:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_hbo_3/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="HBO MUNDI.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO MUNDI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4abbee95b69b3e80a0d141272c870db:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOMUNDIHD/default.mpd
+#EXTINF:-1 tvg-id="HBO BOXING.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO BOXING
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323236373936303238393632:4b80724d0ef86bcb2c21f7999d67739d
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:-1 tvg-id="HBO COMEDY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO COMEDY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:f2f613fb2132acd019d2a96bf1be15c1
+https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ejmisemcpz/out/v1/9e10d2bc67434f7d95911c3e695ce087/cenc.mpd
+#EXTINF:-1 tvg-id="HBO ZONE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO ZONE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+#EXTINF:-1 tvg-id="UNIVERSAL TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", UNIVERSAL TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29e3d2678107f0ab0b35b6537c734f2a:92834ab4a7e1499b90886c5d49220e46
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/UNIVERSALCHANNELHD/default.mpd
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", UNIVERSAL CINEMA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b1443f33c919c89429a21259974a224:63ac662dde310cfb4cc6f9b43b34196d
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALCINEMAHD/default.mpd
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", UNIVERSAL PREMIERE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363735303934383833333131363533:000bd9fa95de8d88a40ba57ab09d400c
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALPREMIEREHD/default.mpd
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", UNIVERSAL CRIME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bb3f2f421f6afd025fa46c784944ad6:be9caaa813c5305e761c66ac63645901
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALCRIMEHD/default.mpd
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", UNIVERSAL REALITY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4708dc633793632adb2287ef37b2dc79:3bd6688b8b44e96201e753224adfc8fb
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALREALITYHD/default.mpd
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", UNIVERSAL COMEDY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALCOMEDYHD/default.mpd
+#EXTINF:-1 tvg-id="UNIVERSAL FAMILY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", UNIVERSAL FAMILY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98817b144bcf19fd0ddca7fe54cee110:85a5835a92bd7f87faf5ffbcb8814d33
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALFAMILYHD/default.mpd
+#EXTINF:-1 tvg-id="CINEEDGE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CINEEDGE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce57c9490bd772b390d78b9fedaf8d36:fdcaf4c23899b53dee1ade954f81accd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
+#EXTINF:-1 tvg-id="THRILL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", THRILL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ab7cff1e63b9efc40aa962023b4b6b8:4ac6eaaf0e5e4f94987cbb5b243b54e8
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+#EXTINF:-1 tvg-id="HITS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HITS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:6700a5d93203417b8585f7de7dd1a09b
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+#EXTINF:-1 tvg-id="HITS MOVIES.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HITS MOVIES
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:297e6859591e3e7f6e2e505504746f33
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MNX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MNX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a8607144e05b630e4af868471c98110:297e6859591e3e7f6e2e505504746f33
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MN+.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MN+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a8607144e05b630e4af868471c98110:297e6859591e3e7f6e2e505504746f33
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MOVIES NOW.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MOVIES NOW
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:297e6859591e3e7f6e2e505504746f33
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="ROMEDY NOW.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ROMEDY NOW
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:297e6859591e3e7f6e2e505504746f33
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="CRAVE 1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CRAVE 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a107945066f45a9af2c32ea88be60f4:bb3e4bfa1821d2bdc25c9a0970e4e3b8
+https://live-crave.video.9c9media.com/137c6e2e72e1bf67b82614c7c9b216d6f3a8c8281748505659713/fe/f/crave/crave1/manifest.mpd
+#EXTINF:-1 tvg-id="CRAVE 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CRAVE 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:fe1219019a9f36cdef347088e592ca10
+https://live-crave.video.9c9media.com/ab4332c60e19b6629129eeb38a2a6ac6db5df2571721750022187/fe/f/crave/crave2/manifest.mpd
+#EXTINF:-1 tvg-id="CRAVE 3.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CRAVE 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:a97c515dbcb5dcbc432bbd09d15afd41
+https://live-crave.video.9c9media.com/58def7d65f59ffaf995238981dd0e276d5a8fe8d1748593014588/fe/f/crave/crave3/manifest.mpd
+#EXTINF:-1 tvg-id="CRAVE 4.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CRAVE 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393133313335323234373039:322d06e9326f4753a7ec0908030c13d8
+https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce7171748593186018/fe/f/crave/crave4/manifest.mpd
+#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:f0e3ab943318471abc8b47027f384f5a
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
+#EXTINF:-1 tvg-id="ROCK ACTION.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ROCK ACTION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:99bd7c1ff2391244b4e40e08bef1109d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/crenwml9jf/out/v1/09518f97387b4ea5a69279a1aa1daf0a/cenc.mpd
+#EXTINF:-1 tvg-id="PARAMOUNT.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PARAMOUNT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94253cf1df2659c3ea253ba1091eca4d:d47ebabf7a21430b83a8c4b82d9ef6b1
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/PARAMOUNTHD/default.mpd
+#EXTINF:-1 tvg-id="COMEDY CENTRAL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/COMEDYCENTRALHD/default.mpd
+#EXTINF:-1 tvg-id="AMC.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", AMC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d40f2990ec5362ca5be3a3c9bb8f8b4:b712c4ec307300043333a6899a402c10
+https://ABBFTJ3AAAAAAAAMBPTDXCMDYGR3L.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6dmgizf5p5/out/v1/9a8dc2d85b6d4f9bb081d53cb26d2003/cenc.mpd
+#EXTINF:-1 tvg-id="FX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://tr.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="WARNER TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", WARNER TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+#EXTINF:-1 tvg-id="LIFETIME.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", LIFETIME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1452d46b8ecd87b38310ce90d4f5209f:e3ce21758f33b38413d7cfecfddcb289
+https://lott-web-opus.cdn.avp.telus.net/232006004039/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#EXTINF:-1 tvg-id="AXN.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", AXN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27d2061c0972931e18d43fbb3301c6f0:92d34a84fae8e54de0a829629941be10
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
+#EXTINF:-1 tvg-id="K-PLUS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", K-PLUS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca2931211c1a261f082a3a2c4fd9f91b:3dd22058fcb94e3790660d256655663b
+https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+#EXTINF:-1 tvg-id="TVN MOVIES.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVN MOVIES
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8795f3bdb8a4778b7e888ee484cc7a1:d4f05ce56c5231b7cdf53455bea58621
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+#EXTINF:-1 tvg-id="TCM CINEMA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TCM CINEMA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e9d7954c2ff46759289da4fc9f018ea:a7724b7ca2604c33bb2e963a0319968a
+https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.mpd
+#EXTINF:-1 tvg-id="MBC MAX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MBC MAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a91f2d315fb0593321ba60aa783ec2c:0fca71cf91b3c4931ad3cf66c631c24c
+https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
+#EXTINF:-1 tvg-id="MBC ACTION.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MBC ACTION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad1f003b4f0b31b75ea4593844435600:0f8537d8412b11edb8780242ac120002
+https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
+#EXTINF:-1 tvg-id="OSN MOVIES FIRST.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", OSN MOVIES FIRST
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7e35a07e2c12822316c0dc4873903f:5436395534576f7638744a43356d336e
+https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
+#EXTINF:-1 tvg-id="CARTOON NETWORK.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="NICK JR.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NICK JR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:342972045bddbc97f43cc3c841cdc6b9
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001245/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="NICK TOONS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NICK TOONS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:2bfc3e059a9f4176b835a15c9a0c0dac
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="NICKELODEON.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NICKELODEON
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:90cc957ead3f42e98b46d14e8c4b08de
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="DISNEY JR.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DISNEY JR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32d50635bfd05fbf8189a0e3f6c8db09:559da1b63eec77b5a942018f14d3f56f
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
+#EXTINF:-1 tvg-id="DISNEY XD.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DISNEY XD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:6169dd042bb5e59d709272b614011bbb
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wu0ibylhtz/out/v1/020953cc1b63428181fa569223470e1a/cenc.mpd
+#EXTINF:-1 tvg-id="DISNEY CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2ac52cadf843459915eaa1a9b95e48:96c5ef69479732ae734f962748c19729
+https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1hz9ifohl2/out/v1/ac9abc088bfa42d49218644005535e02/cenc.mpd
+#EXTINF:-1 tvg-id="DISCOVERY KIDS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DISCOVERY KIDS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:07c7f996b1734ea288641a68e1cfdc4d
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/DISCOVERYKIDSHD/default.mpd
+#EXTINF:-1 tvg-id="PBS KIDS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PBS KIDS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:f3266bec607f25879f48640f30f1c888
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="MOONBUG.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MOONBUG
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:4ddc4cd97e7016485cb6d25bc2ba3cda
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001234/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="JIMJAM.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", JIMJAM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:6a9fcc2f94258cee0f2108687c42e710
+https://dash2.antik.sk/stream/hisi_jimjam/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="DREAMWORKS CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DREAMWORKS CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:50c699c444e5f80dacafc4c99667d810
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+#EXTINF:-1 tvg-id="DREAMWORKS (TAG).Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DREAMWORKS (TAG)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:90cc957ead3f42e98b46d14e8c4b08de
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+#EXTINF:-1 tvg-id="CBEEBIES.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CBEEBIES
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:3a908a5d38a9c496ced27faa6bf5ff8e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+#EXTINF:-1 tvg-id="ZOOMOO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ZOOMOO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="BABY TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BABY TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fb39ab3f55333d5fa3e830ebf99ec16:e31a5a81caff5d07ea2411a571fc2e59
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-id="BABYFIRST.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BABYFIRST
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-id="DA VINCI.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DA VINCI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393132373735323234353438:33564d7a447073443333773974633739
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
+#EXTINF:-1 tvg-id="KAPAMILYA CHANNEL HD.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", KAPAMILYA CHANNEL HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:18827aad7e2e79e526f529fd5027cb47
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="PHOENIX CHINESE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PHOENIX CHINESE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa806baddc384a168eff4f95f06ad289:9f327d24c66fbd84e15ab5c9ead7c7a4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+#EXTINF:-1 tvg-id="ANIME X HIDIVE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ANIME X HIDIVE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ANIONE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ANIONE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+#EXTINF:-1 tvg-id="ANIPLUS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ANIPLUS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfbcfcb8137dd565a7f4b5ce7800c1f0:ad2371259d34404cb89d54a4dc88dcd3
+https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+#EXTINF:-1 tvg-id="ASTRO BOO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ASTRO BOO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:fe71aea346db08f8c6fbf0592209f955
+http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+#EXTINF:-1 tvg-id="ASTRO SHOWCASE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ASTRO SHOWCASE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:fe1219019a9f36cdef347088e592ca10
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+#EXTINF:-1 tvg-id="KOREAN BLOCKBUSTERS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", KOREAN BLOCKBUSTERS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:ad1f003b4f0b31b75ea4593844435600
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
+#EXTINF:-1 tvg-id="ARIRANG.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ARIRANG
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS WORLD.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", KBS WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="NHK WORLD PREMIUM.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NHK WORLD PREMIUM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94bc19ad9cb04a7e6871e650a7f6529c:0f856fa0412b11edb8780242ac120002
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="NHK BS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NHK BS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/NHK_BS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NHK BSP4K.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NHK BSP4K
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/bsp4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BS10.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BS10
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/bs10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BS10 STAR CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BS10 STAR CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/bs10_star/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BS11.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BS11
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/BS11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BS12 TWELLV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BS12 TWELLV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/bs12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ONE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ONE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:8a7e801dbc275e3f4e1f43cba648906a
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001245/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="ONE SPORTS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ONE SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:1da2977f5fed3acb602cc2c8b57c41c1
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+#EXTINF:-1 tvg-id="ONE SPORTS +.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ONE SPORTS +
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:c23677c829bb244b79a3dc09ffd88ca0
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+#EXTINF:-1 tvg-id="WOWOW PRIME.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", WOWOW PRIME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/wprime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="WOWOW CINEMA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", WOWOW CINEMA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/wcinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="WOWOW LIVE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", WOWOW LIVE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/wlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="LOTUS MACAU.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", LOTUS MACAU
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:3ff02fcd80c2e3230c52ae70fe903410
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
+#EXTINF:-1 tvg-id="TBS CHANNEL 1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TBS CHANNEL 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/tbsch1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TBS CHANNEL 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TBS CHANNEL 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/tbsch2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NIHON EIGA SENMON.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NIHON EIGA SENMON
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/nihon_eiga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FAMILY GEKIJYO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FAMILY GEKIJYO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/familygeki/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AT-X.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", AT-X
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/AT-X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FUJI TV ONE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FUJI TV ONE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/fuji_one/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FUJI TV TWO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FUJI TV TWO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/fuji_two/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FUJI TV NEXT.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FUJI TV NEXT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/fuji_next/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV ASAHI CHANNEL 1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TV ASAHI CHANNEL 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/ex_ch1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV ASAHI CHANNEL 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TV ASAHI CHANNEL 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/ex_ch2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TOKYO MX1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TOKYO MX1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/Tokyo_MX1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TOKYO MX2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TOKYO MX2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/Tokyo_MX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CHANNEL NECO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CHANNEL NECO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/neco/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TOEI CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TOEI CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/toei/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DLIFE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DLIFE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/dlife/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVN PREMIUM.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVN PREMIUM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:31363231383438333031323033393138
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+#EXTINF:-1 tvg-id="OCN MOVIES.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", OCN MOVIES
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=817839de27764deb879c65c571c19226:fecaa3486d9deef3f7f0e1a95b662cb7
+https://ocnmovies-drm2-mcdn.tving.com/ocnmovies_drm/live5000.smil/manifest.mpd
+#EXTINF:-1 tvg-id="OCN MOVIES 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", OCN MOVIES 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:22fc5baf47ae3b6322bc244206bbb210
+https://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd
+#EXTINF:-1 tvg-id="CELESTIAL MOVIES.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CELESTIAL MOVIES
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:bcf36f412fa3d735cea04f7443fbf77c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+#EXTINF:-1 tvg-id="CCM.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CCM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e2a2117d705613542618f58bf26fc8e:31e752b441bd2972f2b98a4b1bc1c7a1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
+#EXTINF:-1 tvg-id="RAI ITALIA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RAI ITALIA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+#EXTINF:-1 tvg-id="RAI NEWS 24.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RAI NEWS 24
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f4423fecb09438c8782af0a7bcb2204:183b3eafa4c82e68f74c4244d54906b0
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 tvg-id="DAS ERSTE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DAS ERSTE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:3567746e30367a714e3346344f415947
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
+#EXTINF:-1 tvg-id="TF1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TF1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 tvg-id="3SAT.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", 3SAT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+#EXTINF:-1 tvg-id="VOX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", VOX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#EXTINF:-1 tvg-id="RTL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RTL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
+#EXTINF:-1 tvg-id="ORF 1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ORF 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://cachehsi1a.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+#EXTINF:-1 tvg-id="TVB XING HE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVB XING HE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:620e51b82596475517a27aa425c52280
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+#EXTINF:-1 tvg-id="TVB JADE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVB JADE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b336c8c6bb249b1a5f89dace8d9889e5:bc8d4369fcff86db765db82356b4797c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+#EXTINF:-1 tvg-id="TVB CLASSIC.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVB CLASSIC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/wcinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVB ENTERTAINMENT NEWS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVB ENTERTAINMENT NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bfb374d644703550f0637532bca0491:fe71aea346db08f8c6fbf0592209f955
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+#EXTINF:-1 tvg-id="KAPAMILYA CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", KAPAMILYA CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:18827aad7e2e79e526f529fd5027cb47
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="ANC.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ANC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:18827aad7e2e79e526f529fd5027cb47
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="METRO CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", METRO CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313738363633373739363234:c48c8e48dba24420b5dcef9f5b847b12
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+#EXTINF:-1 tvg-id="TMC.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TMC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:cacc2086a1ac693d6173084b942e751d
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/560908/index.mpd
+#EXTINF:-1 tvg-id="ZEE SINE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ZEE SINE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50547394045b3d047dc7d92f57b5fb33:31363331363737343637333533323837
+https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="GMA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", GMA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d2e14ae2d7e43679f22c1e4c798782a:30304533b5008ad7f33c25f225506bc0
+https://fta1-cdn-flr.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+#EXTINF:-1 tvg-id="MOVIES NOW.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MOVIES NOW
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:297e6859591e3e7f6e2e505504746f33
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MNX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MNX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a8607144e05b630e4af868471c98110:297e6859591e3e7f6e2e505504746f33
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MN+.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MN+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a8607144e05b630e4af868471c98110:297e6859591e3e7f6e2e505504746f33
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="ROMEDY NOW.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ROMEDY NOW
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:297e6859591e3e7f6e2e505504746f33
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="CRAVE 1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CRAVE 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a107945066f45a9af2c32ea88be60f4:bb3e4bfa1821d2bdc25c9a0970e4e3b8
+https://live-crave.video.9c9media.com/137c6e2e72e1bf67b82614c7c9b216d6f3a8c8281748505659713/fe/f/crave/crave1/manifest.mpd
+#EXTINF:-1 tvg-id="CRAVE 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CRAVE 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:fe1219019a9f36cdef347088e592ca10
+https://live-crave.video.9c9media.com/ab4332c60e19b6629129eeb38a2a6ac6db5df2571721750022187/fe/f/crave/crave2/manifest.mpd
+#EXTINF:-1 tvg-id="CRAVE 3.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CRAVE 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:a97c515dbcb5dcbc432bbd09d15afd41
+https://live-crave.video.9c9media.com/58def7d65f59ffaf995238981dd0e276d5a8fe8d1748593014588/fe/f/crave/crave3/manifest.mpd
+#EXTINF:-1 tvg-id="CRAVE 4.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CRAVE 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393133313335323234373039:322d06e9326f4753a7ec0908030c13d8
+https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce7171748593186018/fe/f/crave/crave4/manifest.mpd
+#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:f0e3ab943318471abc8b47027f384f5a
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
+#EXTINF:-1 tvg-id="ROCK ACTION.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ROCK ACTION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:99bd7c1ff2391244b4e40e08bef1109d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/crenwml9jf/out/v1/09518f97387b4ea5a69279a1aa1daf0a/cenc.mpd
+#EXTINF:-1 tvg-id="PARAMOUNT.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PARAMOUNT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94253cf1df2659c3ea253ba1091eca4d:d47ebabf7a21430b83a8c4b82d9ef6b1
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/PARAMOUNTHD/default.mpd
+#EXTINF:-1 tvg-id="COMEDY CENTRAL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/COMEDYCENTRALHD/default.mpd
+#EXTINF:-1 tvg-id="AMC.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", AMC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d40f2990ec5362ca5be3a3c9bb8f8b4:b712c4ec307300043333a6899a402c10
+https://ABBFTJ3AAAAAAAAMBPTDXCMDYGR3L.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6dmgizf5p5/out/v1/9a8dc2d85b6d4f9bb081d53cb26d2003/cenc.mpd
+#EXTINF:-1 tvg-id="WARNER TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", WARNER TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+#EXTINF:-1 tvg-id="LIFETIME.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", LIFETIME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1452d46b8ecd87b38310ce90d4f5209f:e3ce21758f33b38413d7cfecfddcb289
+https://lott-web-opus.cdn.avp.telus.net/232006004039/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#EXTINF:-1 tvg-id="AXN.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", AXN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27d2061c0972931e18d43fbb3301c6f0:92d34a84fae8e54de0a829629941be10
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
+#EXTINF:-1 tvg-id="K-PLUS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", K-PLUS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca2931211c1a261f082a3a2c4fd9f91b:3dd22058fcb94e3790660d256655663b
+https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+#EXTINF:-1 tvg-id="TVN MOVIES.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVN MOVIES
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8795f3bdb8a4778b7e888ee484cc7a1:d4f05ce56c5231b7cdf53455bea58621
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+#EXTINF:-1 tvg-id="TCM CINEMA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TCM CINEMA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e9d7954c2ff46759289da4fc9f018ea:a7724b7ca2604c33bb2e963a0319968a
+https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.mpd
+#EXTINF:-1 tvg-id="MBC MAX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MBC MAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a91f2d315fb0593321ba60aa783ec2c:0fca71cf91b3c4931ad3cf66c631c24c
+https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
+#EXTINF:-1 tvg-id="MBC ACTION.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MBC ACTION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad1f003b4f0b31b75ea4593844435600:0f8537d8412b11edb8780242ac120002
+https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
+#EXTINF:-1 tvg-id="OSN MOVIES FIRST.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", OSN MOVIES FIRST
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7e35a07e2c12822316c0dc4873903f:5436395534576f7638744a43356d336e
+https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", INVESTIGATION DISCOVERY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bf778b0f74a001140656a9fa21927e3:db1ee2b8994b91aac65049ef3e493787
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+#EXTINF:-1 tvg-id="ANIMAL PLANET.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adf163c6c1729e6f77668d4e49f32352:b4a7b3289eff493d8700becf2e2a1157
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:dbf8a0a306a64525ba3012fd225370c0
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DISCOVERY TURBO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:20b91609967e472c27040716ef6a8b9a
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+#EXTINF:-1 tvg-id="DISCOVERY ASIA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DISCOVERY ASIA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:31363231393132323937323234333139
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6169dd042bb5e59d709272b614011bbb:de6c5feaae5f6963b4b392ddc8b6a778
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xfixnh8glr/out/v1/7bd3f3b9e3f94d15bc0a52878c067d60/cenc.mpd
+#EXTINF:-1 tvg-id="DISCOVERY FAMILY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DISCOVERY FAMILY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:183b3eafa4c82e68f74c4244d54906b0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6e1173c892f7fbd60a37a76a78935cb:a1340a251a5aa63a9b0ea5d9d7f67595
+https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vcog5dpiby/out/v1/62521b63232844669628ad2c35776bd1/cenc.mpd
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NATIONAL GEOGRAPHIC WILD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:fa65220c9f76e424173899df533a6d10
+https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/s818vishap/out/v1/7a63dfa162b443ceb195075092adbb21/cenc.mpd
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367662564c69425947353948374f4553:783374273ef97ad3bc992c1d63e091e7
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
+#EXTINF:-1 tvg-id="HISTORY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HISTORY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b11a040f74a5e81b06b5f771cf1f7567:1ba155e345c4456ba891cbee9b3e1c4c
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+#EXTINF:-1 tvg-id="HISTORY2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HISTORY2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:5713350KvZGUi
+https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="BBC EARTH.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BBC EARTH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab093adabdc343b8734b7ecf0aea11a:6ff29fb2d6b7d825eb06004650a0a4ea
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+#EXTINF:-1 tvg-id="BBC LIFESTYLE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BBC LIFESTYLE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a7e801dbc275e3f4e1f43cba648906a:071c7cc4c2f33e1e2d3fa3807d1bbbcc
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
+#EXTINF:-1 tvg-id="TLC.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TLC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc006e72e9aab57aca8ae75a83e8f20e:cb9e1a122ed1c6445f7d3fd2162358f1
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+#EXTINF:-1 tvg-id="ASIAN FOOD NETWORK.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=673478506852336979544a4f38475479:51646d5e500648c6a4e319c7861e963f
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+#EXTINF:-1 tvg-id="FOOD NETWORK.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FOOD NETWORK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=933ae273b166baa8fb203eef1a7adbdf:7a8ed20a4958398677e2c9ccd5a53a00
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
+#EXTINF:-1 tvg-id="HGTV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HGTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:90cc957ead3f42e98b46d14e8c4b08de
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/cg_hgtv_hd1.mpd
+#EXTINF:-1 tvg-id="KNOWLEDGE CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", KNOWLEDGE CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:ff1febd7018d0dd711601e795e0d6210
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+#EXTINF:-1 tvg-id="LOVE NATURE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", LOVE NATURE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce21758f33b38413d7cfecfddcb289:bb3e4bfa1821d2bdc25c9a0970e4e3b8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+#EXTINF:-1 tvg-id="OUTDOOR CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", OUTDOOR CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="E!.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", E!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ca2eb502e8746168c77ad9a506bb293:4e9d7954c2ff46759289da4fc9f018ea
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/manifest.mpd
+#EXTINF:-1 tvg-id="GLOBAL TREKKER.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", GLOBAL TREKKER
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:6a9fcc2f94258cee0f2108687c42e710
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+#EXTINF:-1 tvg-id="LIVING ASIA CHANNEL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", LIVING ASIA CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+#EXTINF:-1 tvg-id="MTV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3551344768323677674c32704a713249:29e3d2678107f0ab0b35b6537c734f2a
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/MTVHD/default.mpd
+#EXTINF:-1 tvg-id="MTV HITS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MTV HITS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3471b2464b5c7b033a03bb8307d9fa35:0e2a2117d705613542618f58bf26fc8e
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/MTVHITSSD/default.mpd
+#EXTINF:-1 tvg-id="MTV LIVE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MTV LIVE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:1a022fb33ad3de4d4579b04966551488
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/MTVLIVEHD/default.mpd
+#EXTINF:-1 tvg-id="MTV 80S.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MTV 80S
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8ae7679cf187261303313b18ba7a14:058dec845bd340178a388edd104a015e
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/MTV80SSD/default.mpd
+#EXTINF:-1 tvg-id="MTV 00S.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MTV 00S
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac0936acc0036fad2273efaa42b1fafd:d0c76237c5ee38e7a420e9c83323023e
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/MTV00HD/default.mpd
+#EXTINF:-1 tvg-id="CLUB MTV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CLUB MTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d067e22a727ae9f264478f5c2ed903a:c3f2aa420b8908ab8761571c01899460
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/CLUBMTVSD/default.mpd
+#EXTINF:-1 tvg-id="MTV 90S.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MTV 90S
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:544962686d3165306836346e73673346
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="MYX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", MYX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:544962686d3165306836346e73673346
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="NOW 70S.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NOW 70S
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:276767a578aae2eacb284247ccd9eb10
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="NOW 80S.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NOW 80S
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:49a9bf0cfba1cb4e52de3d458f6fb3a2
+https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c5-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="NOW ROCK.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NOW ROCK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4591bf63837b4b342058c5e11a51744a:602827a870d49862d1a23f2912957b4c
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="STINGRAY CMUSIC.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", STINGRAY CMUSIC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="STINGRAY CLASSICA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", STINGRAY CLASSICA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="STINGRAY DJAZZ.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", STINGRAY DJAZZ
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="STINGRAY ICONCERTS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", STINGRAY ICONCERTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cb3b9a7c36a445f483c6b216c59b20e:15b830e0b73b0b8ef99786121997d5f5
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561101/index.mpd
+#EXTINF:-1 tvg-id="SPACE SHOWER TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SPACE SHOWER TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://vthanh.utako.moe/spaceshower/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TRACE URBAN.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TRACE URBAN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="NEW KPOP.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NEW KPOP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+#EXTINF:-1 tvg-id="KPOP TV PLAY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", KPOP TV PLAY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+#EXTINF:-1 tvg-id="PREMIER SPORTS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIER SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:92b162b0b1d0dbb1e401f5845b4ce109
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_ps_hd1.mpd
+#EXTINF:-1 tvg-id="PREMIER SPORTS 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIER SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363735363832333531363036:227ffaf09bec4a889e0e0988704d52a2
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561306/index.mpd
+#EXTINF:-1 tvg-id="PREMIER SPORTS ASIA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIER SPORTS ASIA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:322d06e9326f4753a7ec0908030c13d8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+#EXTINF:-1 tvg-id="PREMIER FOOTBALL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIER FOOTBALL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa49373ddac7b0e9079e62a1ab55807c:af573556d33ef2f094b98c7d22e9ffce
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+#EXTINF:-1 tvg-id="PREMIERE 1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIERE 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393132373735323234353438:a7242a7026ff45609114ee1f3beb34dc
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561201/index.mpd
+#EXTINF:-1 tvg-id="PREMIERE 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIERE 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:31363331313738363633373739363234
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561206/index.mpd
+#EXTINF:-1 tvg-id="PREMIERE 3.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIERE 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=472aa631b1e671070a4bf198f43da0c7:fdcaf4c23899b53dee1ade954f81accd
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561208/index.mpd
+#EXTINF:-1 tvg-id="PREMIERE 4.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIERE 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363734363432333339393538:373648504f5155373054657665783851
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561305/index.mpd
+#EXTINF:-1 tvg-id="PREMIERE 5.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIERE 5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:3f59355e15eed1bb219ea1687d55cfbb
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561901/index.mpd
+#EXTINF:-1 tvg-id="PREMIERE 6.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIERE 6
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=246c4f74d0e2417e914a51e5e6e87f22:26d7f918e7d24d0889c2ce2e623b3206
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561504/index.mpd
+#EXTINF:-1 tvg-id="PREMIERE 7.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIERE 7
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:e6daacaced7eba147d2b667441060a4f
+https://cors.jugorder.de/https://linear210-de-dash1-prd-cf.cdn12.skycdp.com/bced/033341/index.mpd?c3.ri=13629687177772365970
+#EXTINF:-1 tvg-id="SPOTV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:1dc30f49888c4652897d9c998aa2cac1
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+#EXTINF:-1 tvg-id="SPOTV 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SPOTV 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:bb43112b7b72e9c287da0ecdec8606a7
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FOX SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393132323937323234333139:a7242a7026ff45609114ee1f3beb34dc
+https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232313037353439323837363235:96701d297d1241e492d41c397631d857
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS 3.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:397c64e42507d95e5460830918c22a98
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FOX SPORTS PREMIUM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a4f75336e6e30764575624855326937:544962686d3165306836346e73673346
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+#EXTINF:-1 tvg-id="TNT SPORTS 1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5769730ffbdc4b2fd8945929d9ace063:217624a3983b3593ca7d1f3b01042d4f
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693368f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="TNT SPORTS 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1340a251a5aa63a9b0ea5d9d7f67595:11223344556677889900112233445566
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-id="TNT SPORTS 3.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6e1173c892f7fbd60a37a76a78935cb:a1340a251a5aa63a9b0ea5d9d7f67595
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+#EXTINF:-1 tvg-id="TNT SPORTS 4.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:99bd7c1ff2391244b4e40e08bef1109d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/crenwml9jf/out/v1/09518f97387b4ea5a69279a1aa1daf0a/cenc.mpd
+#EXTINF:-1 tvg-id="ESPN.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ESPN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fad936249e036830aa5bef41bec05326:31bb1ee9a8d088f62b0103550c301449
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPNHD/default.mpd
+#EXTINF:-1 tvg-id="ESPN 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ESPN 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05b47ae3be1368912ebe28f87480fc84:168bd815468639fe4528b4bf0141f310
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN2HD/default.mpd
+#EXTINF:-1 tvg-id="ESPN 3.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ESPN 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22312FtIwGG:31363735313530343938343234373739
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN3HD/default.mpd
+#EXTINF:-1 tvg-id="NBA TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NBA TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44b423a77dd34ace162db35cbb0fb6a3:aa48b28bd723f91214887df6ed9fad10
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/NBAHD/default.mpd
+#EXTINF:-1 tvg-id="NBA TV PHILIPPINES.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NBA TV PHILIPPINES
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45e77e6a8ba767b63cacfdb01ef2ac29:933ae273b166baa8fb203eef1a7adbdf
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
+#EXTINF:-1 tvg-id="EUROSPORT.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", EUROSPORT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:d0c76237c5ee38e7a420e9c83323023e
+https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+#EXTINF:-1 tvg-id="EUROSPORT 1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", EUROSPORT 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:f5b72bf3b89b9848de5616f37de040b7
+https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/phxwb8s3u9/out/v1/45162b5b3c62402aa2e763b38517be9d/cenc.mpd
+#EXTINF:-1 tvg-id="EUROSPORT 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", EUROSPORT 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c63d5b0d7e52335b61aeba4f6537d54d:9ccd5dd0c86a40ed719b83e1801bcd88
+https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/wwinlbo2f3/out/v1/3f77baf7841a4fdeb9001961b9541a08/cenc.mpd
+#EXTINF:-1 tvg-id="BEIN SPORTS 1.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8ae7679cf187261303313b18ba7a14:183b3eafa4c82e68f74c4244d54906b0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#EXTINF:-1 tvg-id="BEIN SPORTS 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a3a800848120c843ae0fa68c09c261:3ab7cff1e63b9efc40aa962023b4b6b8
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+#EXTINF:-1 tvg-id="BEIN SPORTS 3.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c8c50d4f29a44e5b7c1a8a25d20f3b4:4b44557035556777346e4b3745613651
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/at8teepvrn/out/v1/ab8d59a847f046c88f07a7f3d115d7fe/cenc.mpd
+#EXTINF:-1 tvg-id="BEIN SPORTS 4.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1571520e0e0f4675b34d28913b0c51b9:daad0aeb165b9a26b706f2a261b8fafe
+https://fta3-cdn-flr.visionplus.id/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#EXTINF:-1 tvg-id="BEIN SPORTS 5.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:ffa7c3ca6020428c919e13b817b7e31b
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 tvg-id="ASTRO SPORTS PLUS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ASTRO SPORTS PLUS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:7eea72d6075245a99ee3255603d58853
+https://linearjitp-playback.astro.com.my/dash-wv/linear/800/default_ott.mpd
+#EXTINF:-1 tvg-id="ASTRO FOOTBALL.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ASTRO FOOTBALL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bdf94f9fc1888529f8d27d070d38566:a5cd47bba986b233d3731297cb62fdf9
+https://linearjitp-playback.astro.com.my/dash-wv/linear/440/default_ott.mpd
+#EXTINF:-1 tvg-id="STARZPLAY SPORTS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", STARZPLAY SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb65e4b92473ed6e33ff05a56343dbab:c48c8e48dba24420b5dcef9f5b847b12
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+#EXTINF:-1 tvg-id="ONE SPORTS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ONE SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:1da2977f5fed3acb602cc2c8b57c41c1
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+#EXTINF:-1 tvg-id="ONE SPORTS +.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ONE SPORTS +
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:c23677c829bb244b79a3dc09ffd88ca0
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+#EXTINF:-1 tvg-id="TAP SPORTS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TAP SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d8520e96a1283ab6e5be538474bfa810
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+#EXTINF:-1 tvg-id="PREMIERE 8.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PREMIERE 8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363734363432333339393538:475d6dd40eaba6896e02b26a6cf34d95
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="RPTV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RPTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:273189c214e85b43ac36298d1c422330
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="NET25.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NET25
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5436395534576f7638744a43356d336e:0e7e35a07e2c12822316c0dc4873903f
+https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
+#EXTINF:-1 tvg-id="TV5.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TV5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:53a3776a034dbe5f483d0f3a46f5fddf
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+#EXTINF:-1 tvg-id="IBC 13.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", IBC 13
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=386f3337674c36666e3861713930726f:2bfc3e059a9f4176b835a15c9a0c0dac
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd_new.mpd
+#EXTINF:-1 tvg-id="PTV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d09e48cae8061ed7612c1c969804922:83e7dc469eb303c4237db6750225f6be
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+#EXTINF:-1 tvg-id="A2Z.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", A2Z
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:7a98f8e748e2e14057e9f99ac8e3a025
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+#EXTINF:-1 tvg-id="ALL TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ALL TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303137373937323535313836:38346b5732353165303954347677476e
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="CNN Philippines.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CNN Philippines
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436157316d374c314e56667576363272:39c175581e237eff9559607eb9b23c10
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+#EXTINF:-1 tvg-id="DZRH TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DZRH TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:74576436426946764a6b4e5734456e37
+https://cdn4.skygo.mn/live/disk1/DW/HLSv3-FTA/DW.m3u8
+#EXTINF:-1 tvg-id="RJ TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RJ TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=184f94303d3357b9a7381ccdeee9b611:3161c6c45076419fbbc333c277a22f65
+https://vthanh.utako.moe/Tokyo_MX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RADYO BANDIDO TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RADYO BANDIDO TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22312FtIwGG:723548436f6e34333961586150756649
+https://vthanh.utako.moe/bs10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CLTV 36.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CLTV 36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:361197805d0149c29801946cf2dde67c
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="DZMM TELERADYO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DZMM TELERADYO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323237323935303332363334:279695ebe0fb1bc5787422b6b59ce8a8
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="ONE NEWS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ONE NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77d98ed71db7524c27875a09a975f9e6:1aace05f58d8edef9697fd52cb09f441
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+#EXTINF:-1 tvg-id="ONE PH.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ONE PH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=397c64e42507d95e5460830918c22a98:29e3d2678107f0ab0b35b6537c734f2a
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+#EXTINF:-1 tvg-id="INC TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", INC TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32d50635bfd05fbf8189a0e3f6c8db09:071448690a0ec9b27eb2c1a7d5e03010
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001183/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="TVUP.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVUP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:6d5e62525837ba9b7e09cfb8716116ba
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+#EXTINF:-1 tvg-id="ALIW CHANNEL 23.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ALIW CHANNEL 23
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232303230383430323537313039:91febe843c08c7cc523efd827292e40e
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001103/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="ORAS NG HIMALA TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ORAS NG HIMALA TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233323237303338303332343538:e6e1173c892f7fbd60a37a76a78935cb
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001175/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="GOLDEN NATION NETWORK.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", GOLDEN NATION NETWORK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37fdee8b6eef5c96001e8c6fc47bfc08:2f971e6a1cc58e7085afc761a3f13162
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="PBA RUSH.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PBA RUSH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+#EXTINF:-1 tvg-id="UAAP VARSITY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", UAAP VARSITY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+#EXTINF:-1 tvg-id="CINEMA ONE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CINEMA ONE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="CELESTIAL MOVIES PINOY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CELESTIAL MOVIES PINOY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b21654621230ae21714a5cab52daeb9d:4ddc4cd97e7016485cb6d25bc2ba3cda
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celmovie_pinoy_sd.mpd
+#EXTINF:-1 tvg-id="JEEPNEY TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", JEEPNEY TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27662063ZATMqp:07c7f996b1734ea288641a68e1cfdc4d
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="PBO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PBO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fb39ab3f55333d5fa3e830ebf99ec16:53a3776a034dbe5f483d0f3a46f5fddf
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+#EXTINF:-1 tvg-id="SOLARFLIX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SOLARFLIX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8ae7679cf18e7261303313b18ba7a14:35416a68643065697575493337566135
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTINF:-1 tvg-id="SARI-SARI.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SARI-SARI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34c1715a9fd24e7d8497da043669ad66:900c43f0e02742dd854148b7a75abbec
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+#EXTINF:-1 tvg-id="BUKO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BUKO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+#EXTINF:-1 tvg-id="TAP ACTION FLIX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TAP ACTION FLIX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:8ccb6857157c1a01c5a47eb853f51aa2
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+#EXTINF:-1 tvg-id="TVN MOVIES PINOY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TVN MOVIES PINOY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8795f3bdb8a4778b7e888ee484cc7a1:ce5d18ffd68650affce1985201983ab7
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+#EXTINF:-1 tvg-id="PINOY XTREME.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", PINOY XTREME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+#EXTINF:-1 tvg-id="ANIONE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ANIONE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://amg02188-amg02188c2-jungotv-northamerica-5717.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="HALLYPOP.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HALLYPOP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8
+#EXTINF:-1 tvg-id="JUNGO PINOY TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", JUNGO PINOY TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
+#EXTINF:-1 tvg-id="JUNGO TV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", JUNGO TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jungotvstream.chanall.tv/jungotv/frontrow/stream.m3u8
+#EXTINF:-1 tvg-id="SCREAMFLIX.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SCREAMFLIX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jungotvstream.chanall.tv/jungotv/screamflix/stream.m3u8
+#EXTINF:-1 tvg-id="COMBATGO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", COMBATGO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jungotvstream.chanall.tv/jungotv/combatgo/stream.m3u8
+#EXTINF:-1 tvg-id="AL JAZEERA.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", AL JAZEERA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b336c8c6bb249b1a5f89dace8d9889e5:22fc5baf47ae3b6322bc244206bbb210
+https://cdn4.skygo.mn/live/disk1/CGTN_Doc/HLSv3-FTA/CGTN_Doc.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", BLOOMBERG
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="CNN.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", CNN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af573556d33ef2f094b98c7d22e9ffce:e4293507d592df040f2186f1ce82a712
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
+#EXTINF:-1 tvg-id="DW.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", DW
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="FOX NEWS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FOX NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="FRANCE 24.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", FRANCE 24
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="GTV.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", GTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:49a9bf0cfba1cb4e52de3d458f6fb3a2
+https://bunproxy.azurewebsites.net/api/001/2/ch00000090990000001112/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="NHK WORLD JAPAN.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="RUSSIA TODAY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", RUSSIA TODAY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="SKY NEWS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", SKY NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-id="TRT WORLD.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", TRT WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="REUTERS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", REUTERS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://jmp2.uk/sam-DEBD4900001QV.m3u8
+#EXTINF:-1 tvg-id="WION.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", WION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="ANC.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", ANC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9729558a9bff8d94774bfa2f019a1310:8b9eb7ab7196a425d9ab618a5c9f99d9
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="HBO.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=279695ebe0fb1bc5787422b6b59ce8a8:4ddc4cd97e7016485cb6d25bc2ba3cda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#EXTINF:-1 tvg-id="HBO SIGNATURE.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:34880f56627c11ee8c990242ac120002
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1 tvg-id="HBO HITS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO HITS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:ce5d18ffd68650affce1985201983ab7
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+#EXTINF:-1 tvg-id="HBO FAMILY.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO FAMILY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:872910c843294319800d85f9a0940607
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd872910c843294319800d85f9a0940607
+#EXTINF:-1 tvg-id="HBO PLUS.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO PLUS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:31363231393131363337323232353030
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOPLUSHD/default.mpd
+#EXTINF:-1 tvg-id="HBO POP.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO POP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:20c884ef8ed26b2762f8b1a78f2d1910
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOPOPHD/default.mpd
+#EXTINF:-1 tvg-id="HBO XTREME.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO XTREME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:40d8bb2a46ffd03540e0c6210ece57ce
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
+#EXTINF:-1 tvg-id="HBO 2.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png" group-title="New Channels", HBO 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fad936249e036830aa5bef41bec05326:de6c5feaae5f6963b4b392ddc8
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2HD/default.mpd
+
+
+
+
